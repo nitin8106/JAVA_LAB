@@ -36,7 +36,5 @@ Runtime and compile-time polymorphism
 Abstract classes
 Interfaces
 Hiding implementation details
-
 Interfaces
-
 Hiding implementation details
